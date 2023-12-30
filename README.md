@@ -1,6 +1,6 @@
 # Synfire Chains
 
-## This project surrounds Synfire Chains and successfully reproduces and extends the results of the paper of ["Stable propagation of synchronous spiking in cortical neural networks" by Diesmann et al (1999)](https://www.nature.com/articles/990101). 
+## This project surrounds Synfire Chains and successfully reproduces and extends the results of the paper of ["Stable propagation of synchronous spiking in cortical neural networks"](https://www.nature.com/articles/990101) by Diesmann et al (1999). 
 
 ### Task 1: Implementation of a simulator for the model in the paper. 
 __Model:__ Leaky Integrate-and-Fire (LIF) neuron with:
